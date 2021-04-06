@@ -31,8 +31,9 @@ Les fonctions à utiliser
 
 Vous devez réaliser un timeline vertical en html, css et javascript. Tout d'abord, vous devez créer la structure de base avec un minimum de balises et la puissance des pseudo-éléments CSS. Ensuite, vous utiliserez du JavaScript pour ajouter des effets de transition lorsqu'on défile la page.
 
+[Code source](#)
+
 
 ## Ressources :
 * https://www.pierre-giraud.com/javascript-apprendre-coder-cours/introduction
 * https://www.rithmschool.com/courses/javascript
-* 
