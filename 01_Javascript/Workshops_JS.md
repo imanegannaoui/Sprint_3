@@ -25,13 +25,13 @@ Les fonctions à utiliser
 * classList
 * textContent
 
-[Code source](#)
+[Code source](https://github.com/imanegannaoui/Sprint_3/tree/main/01_Javascript/01_Compteur)
 
 ### Step 2 : Timeline
 
 Vous devez réaliser un timeline vertical en html, css et javascript. Tout d'abord, vous devez créer la structure de base avec un minimum de balises et la puissance des pseudo-éléments CSS. Ensuite, vous utiliserez du JavaScript pour ajouter des effets de transition lorsqu'on défile la page.
 
-[Code source](#)
+[Code source](https://github.com/imanegannaoui/Sprint_3/tree/main/01_Javascript/02_Timeline)
 
 
 ## Ressources :
