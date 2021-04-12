@@ -20,7 +20,7 @@ Une fois les bases de Bootstrap maîtrisées vous pouvez utiliser l'outil layout
 ## Exercice 1
 Reproduire une page similaire à l'image ci-dessous
 
-![pricing](https://github.com/imanegannaoui/Sprint_3/tree/main/01_Bootstrap)
+![pricing](https://github.com/imanegannaoui/Sprint_3/blob/main/02_Bootstrap/page_ex1.jpg)
 
 
 
