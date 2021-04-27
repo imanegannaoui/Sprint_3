@@ -9,4 +9,4 @@ Etre capable de mettre les cards dans les grilles en Bootstrap 4
 
 ## Modèle
 
-[Lien](#)
+[Modèle](https://github.com/imanegannaoui/Sprint_3/blob/main/03_Bootstrap/Workshop%203/card.png)
