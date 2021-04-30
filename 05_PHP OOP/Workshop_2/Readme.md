@@ -14,7 +14,7 @@
 Travail en Binôme
 
 ## Compétences visées
-* C1N3, C2N3, C3N2, C5N3, C6N3, C7N2
+* C1N3, C2N3, C3N2, C5N2, C6N2, C7N2
 
 ## Prerequisites
 
