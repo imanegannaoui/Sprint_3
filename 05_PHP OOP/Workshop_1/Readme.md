@@ -1,4 +1,4 @@
-# Workshop 1 :PHP CRUD PDO (Gestion des apprenants)
+# Workshop 1 : Gestion des apprenants
 
 ## Niveau 
 &#9733; &#9733; &#9733;
